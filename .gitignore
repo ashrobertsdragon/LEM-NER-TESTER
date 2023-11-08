@@ -1,0 +1,7 @@
+chapter.text
+__pycache__/
+.pythonlibs/
+.upm/
+poetry.lock
+pyproject.toml
+.replit
